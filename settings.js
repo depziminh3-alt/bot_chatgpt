@@ -1,7 +1,7 @@
 const settings = {
     "minecraft_version": "1.21.5", // or specific version like "1.21.5"
-    "host": "Cug_mc.aternos.me", // or "localhost", "your.ip.address.here"
-    "port": 18085, // set to -1 to automatically scan for open ports
+    "host": "cug_mc.aternos.me", // or "localhost", "your.ip.address.here"
+    "port": 25565, // set to -1 to automatically scan for open ports
     "auth": "offline", // or "microsoft"
 
     // the mindserver manages all agents and hosts the UI
